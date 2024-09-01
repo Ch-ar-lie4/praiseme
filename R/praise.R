@@ -11,3 +11,5 @@ usethis::use_package("glue")
 
 usethis::use_testthat()
 usethis::use_test("praise")
+
+usethis::use_git()
